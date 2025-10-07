@@ -2,7 +2,7 @@
 
 - 🔹 Building fast, responsive web applications with **React, HTML, CSS and JavaScript**
 - 🔹 Passionate about **UI/UX, performance optimization**
-- 🔹 Currently completing a **front-end development boot camp**
+- 🔹  **front-end development boot camp grad**
 - 🔹 Exploring **crypto integrations & blockchain applications**
 - 👨‍🍳 **Culinary Degree + Tech** → I'd love to help restaurants build modern, high-converting websites & online ordering systems  
 
