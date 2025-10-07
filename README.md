@@ -9,7 +9,7 @@
 💡 **Open to freelance projects & remote opportunities**  
 
 ### 📌 Portfolio & Contact
-| 📧 [kingkey0101@outlook.com]
+https://keylan-king-portfolio.vercel.app/ | 📧 [kingkey0101@outlook.com]
 
 <!---
 kingkey0101/kingkey0101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
