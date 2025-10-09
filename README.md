@@ -1,6 +1,6 @@
 # Keylan King — Frontend Developer
 
-Building fast, pixel‑perfect React apps for web and restaurant tech; bootcamp grad with hands‑on internships and a culinary degree.
+Frontend bootcamp grad with hands‑on internships and a culinary degree; a decade in fine dining brings discipline, speed, and pixel‑perfect execution
 
 ## Tech summary
 
