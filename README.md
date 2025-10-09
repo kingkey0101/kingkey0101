@@ -1,4 +1,4 @@
-# Keylan King — Front-End Developer
+# Keylan King — Frontend Developer
 
 Building fast, pixel‑perfect React apps for web and restaurant tech; bootcamp grad with hands‑on internships and a culinary degree.
 
@@ -18,7 +18,7 @@ Building fast, pixel‑perfect React apps for web and restaurant tech; bootcamp 
 - Bootcamp graduate with internship experience rebuilding production UI from Figma.  
 - Focused on performance, accessibility, and clean component architecture.  
 - Comfortable shipping production builds, troubleshooting deploys, and documenting constraints.  
-- Open to junior/mid frontend roles and freelance projects (restaurant tech, UI polish).
+- Open to frontend roles and freelance projects (food & beverage tech, UI polish).
 
 ## Selected projects
 
