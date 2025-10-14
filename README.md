@@ -6,7 +6,7 @@ Frontend bootcamp grad with hands‑on internships and a culinary degree; a deca
 
 | Focus | Tools / Tech |
 |:--|:--|
-| **Frontend** | React.js; Next.js; JSX; Hooks; React Router; shadcn/ui |
+| **Frontend** | React.js; Vite; Next.js; JavaScript/JSX; TypeScript/TSX; Hooks; React Router; shadcn/ui |
 | **Styling** | CSS; Tailwind; responsive design; mobile‑first |
 | **Animations & UI** | GSAP; micro‑interactions; accessible motion; AOS |
 | **Data & Integration** | REST APIs; fetch/axios; Chart.js |
