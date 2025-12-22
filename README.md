@@ -26,6 +26,7 @@ Frontend bootcamp grad with hands‑on internships and a culinary degree; a deca
 - **NFT Ultraverse** — NFT gallery UI with responsive grid, wallet proof‑of‑concept, and lazy‑loaded media for performance. Tech: React, Axios, AOS, Slick Slider.
 - **FlickFinder** — Movie search and discovery with route‑based code splitting, accessible navigation, and polished micro‑interactions. Tech: React Router, Axios.
 - **SplitR** — Shared‑bills utility with precise calculations, and locale currency formatting. Built with Next.js for SSR/SSG and clean routing, styled with shadcn/ui and Tailwind, and visualized using Chart.js for expense breakdowns. Build includes route code‑splitting, dynamic Chart.js imports, and CI checks (Lighthouse). Tech: Next.js; shadcn/ui; Tailwind; Chart.js;
+- **Summarist** — Fast, audio‑enabled book summaries with user libraries and premium access. Tech: Next.js 15; TypeScript; Tailwind; Firebase; Vercel.
 
 ## Culinary + product fit
 
