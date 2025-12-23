@@ -1,42 +1,24 @@
-# Keylan King — Frontend Developer
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Keylan King
+====================================================================================================================================
+
+Software Developer
+------------------
 
 Frontend bootcamp grad with hands‑on internships and a culinary degree; a decade in fine dining brings discipline, speed, and pixel‑perfect execution
 
-## Tech summary
+* 🌍  I'm based in Texas
+* ✉️  You can contact me at [kingkey0101@outlook.com](mailto:kingkey0101@outlook.com)
+* ⚡  Culinary degree + frontend expertise: precise, fast, and calm under pressure—ideal for restaurant tech, high‑tempo product teams, and deadline‑driven demos. I bring                       hospitality knowledge, rigorous attention to detail, and the ability to learn and execute quickly to every project.
 
-| Focus | Tools / Tech |
-|:--|:--|
-| **Frontend** | React.js; Vite; Next.js; JavaScript/JSX; TypeScript/TSX; Hooks; React Router; shadcn/ui |
-| **Styling** | CSS; Tailwind; responsive design; mobile‑first |
-| **Animations & UI** | GSAP; micro‑interactions; accessible motion; AOS |
-| **Data & Integration** | REST APIs; fetch/axios; Chart.js |
-| **Tooling & Deploy** | Git/GitHub; Vercel |
-| **Other** | NFT integration experience |
+<p align="left">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://clerk.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/clerk-colored-dark.svg" alt="Clerk" title="Clerk" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://resend.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/resend-colored-dark.svg" alt="Resend" title="Resend" width="36" height="36" /></a>
+</p>
 
-## Quick summary
+### Socials
 
-- Bootcamp graduate with internship experience rebuilding production UI from Figma.  
-- Focused on performance, accessibility, and clean component architecture.  
-- Comfortable shipping production builds, troubleshooting deploys, and documenting constraints.  
-- Open to frontend roles and freelance projects (food & beverage tech, UI polish).
+<p align="left"> <a href="https://www.github.com/kingkey0101" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/kingkey0101" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/keylan-king-12116835a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/kingkey0101" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.stackoverflow.com/users/kingkey0101" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /> </picture> </a></p>
+### Badges
 
-## Selected projects
+<b>My GitHub Stats</b>
 
-- **Skinstric.ai UI rebuild** — Figma → React pixel‑perfect conversion; implemented react‑webcam image capture, a FileFinder utility for client-side file discovery, and secure base64 image handling for preview and upload. Includes accessible form flows, skeleton loading   states, and robust client-side validation for image encoding and size limits. Tech: React, Tailwind, react‑webcam, base64 image processing, Vercel.
-- **NFT Ultraverse** — NFT gallery UI with responsive grid, wallet proof‑of‑concept, and lazy‑loaded media for performance. Tech: React, Axios, AOS, Slick Slider.
-- **FlickFinder** — Movie search and discovery with route‑based code splitting, accessible navigation, and polished micro‑interactions. Tech: React Router, Axios.
-- **SplitR** — Shared‑bills utility with precise calculations, and locale currency formatting. Built with Next.js for SSR/SSG and clean routing, styled with shadcn/ui and Tailwind, and visualized using Chart.js for expense breakdowns. Build includes route code‑splitting, dynamic Chart.js imports, and CI checks (Lighthouse). Tech: Next.js; shadcn/ui; Tailwind; Chart.js;
-- **Summarist** — Fast, audio‑enabled book summaries with user libraries and premium access. Tech: Next.js 15; TypeScript; Tailwind; Firebase; Vercel.
-
-## Culinary + product fit
-
-Culinary degree + frontend expertise: precise, fast, and calm under pressure—ideal for restaurant tech, high‑tempo product teams, and deadline‑driven demos. I bring hospitality knowledge, rigorous attention to detail, and the ability to learn and execute quickly to every project.
-
-## Contact
-
-Portfolio: https://keylan-king-portfolio.vercel.app/ • Email: kingkey0101@outlook.com
-
-<!---
-kingkey0101/kingkey0101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="http://www.github.com/kingkey0101"><img src="https://github-readme-stats.vercel.app/api?username=kingkey0101&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kingkey0101's GitHub stats" /></a>
