@@ -41,6 +41,9 @@ Frontend bootcamp grad with hands‑on internships and a culinary degree; a deca
     height="36"
   />
 </a>
+<!-- Linux -->
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
+
 </p>
 
 ### Socials
